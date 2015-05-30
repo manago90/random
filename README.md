@@ -1,1 +1,1 @@
-pruebajfaksjdlkajsldjalkjsdlaj
+Proyecto en el que se incluye un fichero en javascript en el que se devuelve un número aleatorio entre 0 y 1.
